@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+const dateToFormat = new datetime.date;
 class App extends Component {
   render() {
     return (
@@ -9,7 +9,9 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Welcome! First react App......
+            const dateToFormat = '1976-04-19T12:59-0500';
+            Welcome! First react App In VS Code......
+            <h1> {dateToFormat}</h1>
           </p>
           <a
             className="App-link"
